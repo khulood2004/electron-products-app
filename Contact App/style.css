@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(135deg, #304b80, #2a3852);
+    padding: 10px;
+}
+
+.Contacts-Register {
+    width: 100%;
+    max-width: 540px;
+    background: #fff4f4;
+    margin: 100px auto 20px;
+    padding: 40px 30px 70px;
+    border-radius: 10px;
+}
+
+.Contacts-Register h2 {
+    color: #1d0dfa;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    margin-bottom: 20px;
+}
+
+.logo-container {
+    width: 50px; 
+    height: auto; 
+}
+
+.logo-container img {
+    max-width: 100%; 
+    height: auto; 
+}
+
